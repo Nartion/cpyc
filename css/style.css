@@ -171,3 +171,73 @@ div#bottom {
 ul {
     list-style:none;
 }
+/* 联系我们 */
+.connect1{
+    width: 400px;
+    height: 1000px;
+    position: relative;
+    float: left;
+}
+.connect2{
+    width: 400px;
+    height: 1000px;
+    position: relative;
+    float: left;
+}
+/*地图*/
+ html,body{margin:0;padding:0;}
+    .iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+    .iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}]
+/* 联系我们 */
+#col1 {
+    width:32%;
+    height:750px;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color:#FFFFFF;
+}
+#col2 {
+    width:68%;
+    height:750px;
+    position:absolute;
+    top:0;
+    right:0;
+    background-color:#003320;
+}
+#xm1 {
+    position:absolute;
+    top:50px;
+    right:0;
+    border:none;
+    width:80%;
+    background-color: #FFFFFF;
+    text-align:left;
+}
+#xm2 {
+    position:absolute;
+    top:150px;
+    right:0;
+    border: 1px;
+    border-bottom-style:dotted;
+    width:80%;
+    height:80px;
+    background-color:#FFFFFF;
+    text-align:left;
+    line-height:20pt;
+    text-shadow:#00FF00;
+}
+#xm3{
+    position:absolute;
+    top:232px;
+    right:0;
+    border: 1px;
+    border-bottom-style:dotted;
+    width:80%;
+    height:80px;
+    background-color:#FFFFFF;
+    text-align:left;
+    line-height:20pt;
+    vertical-align:bottom;
+    margin-top:20px;
+}
